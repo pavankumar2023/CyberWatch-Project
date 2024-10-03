@@ -1,36 +1,37 @@
-# CyberWatch: Malicious Link and Email Detector
+# 🚀 CyberWatch: Malicious Link and Email Detector
 
-## Overview
 
-CyberWatch is a web application designed to detect potentially malicious links and emails. It utilizes PHP for the backend logic and JavaScript for client-side interactions. The application aims to enhance online safety by providing users with immediate feedback on the safety of their inputs.
+## 🌟 Overview
 
-## Features
+CyberWatch is a web application designed to **detect potentially malicious links and emails**. Using a combination of **PHP** for backend logic and **JavaScript** for client-side interactions, CyberWatch aims to enhance online safety by providing immediate feedback on the safety of user inputs.
 
-- **Malicious Link Detection**: Checks the entered link against a predefined list of malicious domains.
-- **Email Validation**: Scans email addresses for known malicious patterns.
-- **User-Friendly Interface**: Simple and intuitive form for inputting links and emails.
-- **Responsive Design**: Works well on various devices with a clean layout.
+## 🛠️ Features
 
-## Technologies Used
+- **🔗 Malicious Link Detection**: Identifies links based on a predefined list of malicious domains.
+- **✉️ Email Validation**: Scans email addresses for known malicious patterns.
+- **🖥️ User-Friendly Interface**: Simple and intuitive input forms for links and emails.
+- **📱 Responsive Design**: Ensures usability across various devices with a clean layout.
+
+## 💻 Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
-- **Database**: None (currently, the detection logic is based on hardcoded values)
-  
-## Getting Started
+- **Database**: None (currently based on hardcoded values)
 
-### Prerequisites
+## 🚀 Getting Started
+
+### 📋 Prerequisites
 
 To run this project locally, ensure you have the following installed:
 
-- A local server environment (e.g., XAMPP, WAMP, MAMP, or a web hosting service that supports PHP)
-- A modern web browser
+- A local server environment (e.g., **XAMPP**, **WAMP**, **MAMP**, or a compatible web hosting service).
+- A modern web browser.
 
-### Installation
+### 🛠️ Installation
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/pavankumar2023/CyberWatch-Project.git
+   git clone https://github.com/pavankumar2023/cyberwatch.git
    cd cyberwatch
 
 
